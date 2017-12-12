@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  ListaTarefas
+
+  Created by ALOC SP08156 on 12/12/2017.
+  Copyright © 2017 ALOC SP08156. All rights reserved.
+*/
+
+"login.invalido" = "Login invalido";
+"senha.invalida" = "Senha invalida";
+"login.ou.senha.invalidos" = "Login ou Senha invalido(s)";
+"titulo.invalido" = "Titulo invalido";
+"descricao.invalida" = "Descricao invalida";
+"tarefa.cadastrada.com.sucesso" = "Tarefa cadastrada com sucesso";
+"tarefa.alterada.com.sucesso" = "Tarefa alterada com sucesso";
+"tarefa.removida.com.sucesso" = "Tarefa removida com sucesso";
+"tarefa.falha.ao.remover" = "Falha ao remover tarefa";
+
