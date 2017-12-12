@@ -1,0 +1,39 @@
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "6wD-ED-Te5"; */
+"6wD-ED-Te5.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "764-pU-9yc"; */
+"764-pU-9yc.text" = "Label";
+
+/* Class = "UILabel"; text = "Completo ?"; ObjectID = "ADn-vx-xTl"; */
+"ADn-vx-xTl.text" = "Terminé ?";
+
+/* Class = "UILabel"; text = "Descrição:"; ObjectID = "ERK-r4-8ct"; */
+"ERK-r4-8ct.text" = "Description:";
+
+/* Class = "UINavigationItem"; title = "Tasks"; ObjectID = "FFZ-nQ-Rf0"; */
+"FFZ-nQ-Rf0.title" = "Tâche";
+
+/* Class = "UITextField"; placeholder = "TITULO"; ObjectID = "KFu-k3-bdu"; */
+"KFu-k3-bdu.placeholder" = "Titre";
+
+/* Class = "UINavigationItem"; title = "Criar Nova"; ObjectID = "PHZ-G2-1to"; */
+"PHZ-G2-1to.title" = "Creer nouveau";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TH7-wm-OZU"; */
+"TH7-wm-OZU.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Login"; ObjectID = "WOP-jW-bTV"; */
+"WOP-jW-bTV.placeholder" = "Login";
+
+/* Class = "UILabel"; text = "Data Expiração:"; ObjectID = "dpD-nG-SFW"; */
+"dpD-nG-SFW.text" = "Date d'expiration:";
+
+/* Class = "UILabel"; text = "🔵"; ObjectID = "eBe-c3-WhS"; */
+"eBe-c3-WhS.text" = "🔵";
+
+/* Class = "UITextField"; placeholder = "Senha"; ObjectID = "plw-Ay-0cx"; */
+"plw-Ay-0cx.placeholder" = "Mot de passe";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xf3-8w-Ibh"; */
+"xf3-8w-Ibh.text" = "Label";
